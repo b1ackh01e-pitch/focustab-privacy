@@ -14,8 +14,7 @@ Explainer offers paid subscriptions processed securely by **Paddle** (our Mercha
 
 ## How to Request a Refund
 
-1. Email us at **b1ackh01e.pitch@gmail.com** with your order ID and reason for the refund.
-2. Alternatively, contact Paddle support directly at [paddle.com/support](https://paddle.com/support) with your transaction details.
+Contact Paddle support directly at [paddle.com/support](https://paddle.com/support) with your transaction details.
 
 ## Cancellation
 
